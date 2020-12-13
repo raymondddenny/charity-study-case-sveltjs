@@ -2,6 +2,10 @@ _Looking for a shareable component template? Go here --> [sveltejs/component-tem
 
 ---
 
+#LINK DEPLOY
+
+### https://charitymove.netlify.app/
+
 # svelte app
 
 This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
